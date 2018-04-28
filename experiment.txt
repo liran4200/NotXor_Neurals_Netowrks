@@ -1,0 +1,72 @@
+Experiment #1
+Hyper parameters:
+ Learning rate = 0.100000, Nb hidden = 2, Shortcut = False
+Averages:
+ Avg training loss = 0.199867, Avg evaluate loss = 0.532556, Avg number of epocs = 1784.700000
+Standard deviation:
+ Std training loss = 0.000093, Std evaluate_loss = 0.018267, Std number of epocs = 514.629585
+Failed = 0
+
+Experiment #2
+Hyper parameters:
+ Learning rate = 0.100000, Nb hidden = 2, Shortcut = True
+Averages:
+ Avg training loss = 0.199905, Avg evaluate loss = 0.567229, Avg number of epocs = 1646.600000
+Standard deviation:
+ Std training loss = 0.000094, Std evaluate_loss = 0.030698, Std number of epocs = 314.444335
+Failed = 0
+
+Experiment #3
+Hyper parameters:
+ Learning rate = 0.100000, Nb hidden = 4, Shortcut = False
+Averages:
+ Avg training loss = 0.199873, Avg evaluate loss = 0.616151, Avg number of epocs = 1199.900000
+Standard deviation:
+ Std training loss = 0.000063, Std evaluate_loss = 0.027947, Std number of epocs = 97.909601
+Failed = 0
+
+Experiment #4
+Hyper parameters:
+ Learning rate = 0.100000, Nb hidden = 4, Shortcut = True
+Averages:
+ Avg training loss = 0.199840, Avg evaluate loss = 0.638716, Avg number of epocs = 1545.500000
+Standard deviation:
+ Std training loss = 0.000075, Std evaluate_loss = 0.043402, Std number of epocs = 417.502635
+Failed = 0
+
+Experiment #5
+Hyper parameters:
+ Learning rate = 0.010000, Nb hidden = 2, Shortcut = False
+Averages:
+ Avg training loss = 0.199987, Avg evaluate loss = 0.526827, Avg number of epocs = 17365.200000
+Standard deviation:
+ Std training loss = 0.000009, Std evaluate_loss = 0.018781, Std number of epocs = 3275.689112
+Failed = 0
+
+Experiment #6
+Hyper parameters:
+ Learning rate = 0.010000, Nb hidden = 2, Shortcut = True
+Averages:
+ Avg training loss = 0.199988, Avg evaluate loss = 0.557034, Avg number of epocs = 18014.900000
+Standard deviation:
+ Std training loss = 0.000008, Std evaluate_loss = 0.026927, Std number of epocs = 3696.268834
+Failed = 0
+
+Experiment #7
+Hyper parameters:
+ Learning rate = 0.010000, Nb hidden = 4, Shortcut = False
+Averages:
+ Avg training loss = 0.199972, Avg evaluate loss = 0.620379, Avg number of epocs = 12646.700000
+Standard deviation:
+ Std training loss = 0.000014, Std evaluate_loss = 0.032417, Std number of epocs = 1064.228646
+Failed = 0
+
+Experiment #8
+Hyper parameters:
+ Learning rate = 0.010000, Nb hidden = 4, Shortcut = True
+Averages:
+ Avg training loss = 0.199985, Avg evaluate loss = 0.639657, Avg number of epocs = 14092.600000
+Standard deviation:
+ Std training loss = 0.000007, Std evaluate_loss = 0.041289, Std number of epocs = 1349.310283
+Failed = 0
+
